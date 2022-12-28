@@ -1,0 +1,279 @@
+2022-11-11 14:44:04,919 [main] INFO logger_File - React App is equal to React App
+2022-11-11 14:44:05,223 [main] INFO logger_File - signInPage
+2022-11-11 15:17:20,092 [main] INFO logger_File - React App is equal to React App
+2022-11-11 15:17:20,386 [main] INFO logger_File - signInPage
+2022-11-11 15:21:18,710 [main] INFO logger_File - React App is equal to React App
+2022-11-11 15:21:18,987 [main] INFO logger_File - signInPage
+2022-11-11 15:21:19,235 [main] INFO logger_File - user entered email emily.paris9@tekschool.us and password Itisapass@2022
+2022-11-11 15:21:19,316 [main] INFO logger_File - user clicked on login button
+2022-11-11 15:21:42,098 [main] INFO logger_File - React App is equal to React App
+2022-11-11 15:21:42,353 [main] INFO logger_File - signInPage
+2022-11-11 16:23:15,282 [main] INFO logger_File - React App is equal to React App
+2022-11-11 16:23:15,571 [main] INFO logger_File - signInPage
+2022-11-11 16:23:15,815 [main] INFO logger_File - user entered email emily.paris9@tekschool.us and password Itisapass@2022
+2022-11-11 16:26:44,454 [main] INFO logger_File - React App is equal to React App
+2022-11-11 16:26:44,750 [main] INFO logger_File - signInPage
+2022-11-11 16:26:44,988 [main] INFO logger_File - user entered email emily1.paris@tekschool.us and password Tek@4556
+2022-11-11 16:28:59,733 [main] INFO logger_File - React App is equal to React App
+2022-11-11 16:29:00,011 [main] INFO logger_File - signInPage
+2022-11-11 16:29:05,264 [main] INFO logger_File - user entered email emily1.paris@tekschool.us and password Tek@4556
+2022-11-11 16:31:16,593 [main] INFO logger_File - React App is equal to React App
+2022-11-11 16:31:16,881 [main] INFO logger_File - signInPage
+2022-11-11 16:31:22,129 [main] INFO logger_File - user entered email emily1.paris@tekschool.us and password Tek@4556
+2022-11-12 09:05:45,774 [main] INFO logger_File - React App is equal to React App
+2022-11-12 09:05:46,046 [main] INFO logger_File - signInPage
+2022-11-12 09:05:51,309 [main] INFO logger_File - user entered email ihateteacher@tek.com and password Tek@12345
+2022-11-12 09:05:51,396 [main] INFO logger_File - user clicked on login button
+2022-11-12 09:05:51,610 [main] INFO logger_File - user logged in into account
+2022-11-12 09:06:52,858 [main] INFO logger_File - React App is equal to React App
+2022-11-12 09:06:53,115 [main] INFO logger_File - signInPage
+2022-11-12 09:06:58,208 [main] INFO logger_File - User clicked on create New Account button
+2022-11-12 09:06:58,669 [main] INFO logger_File - user entered required information into sign up form
+2022-11-12 09:06:58,757 [main] INFO logger_File - user clicked on sign up button
+2022-11-12 09:06:59,035 [main] INFO logger_File - Account was created
+2022-11-12 09:11:16,010 [main] INFO logger_File - React App is equal to React App
+2022-11-12 09:11:16,289 [main] INFO logger_File - signInPage
+2022-11-12 09:11:21,543 [main] INFO logger_File - user entered email ihateteacher@tek.com and password Tek@12345
+2022-11-12 09:11:21,621 [main] INFO logger_File - user clicked on login button
+2022-11-12 09:11:21,831 [main] INFO logger_File - user logged in into account
+2022-11-12 09:11:26,969 [main] INFO logger_File - User clicked on account option
+2022-11-12 09:11:27,183 [main] INFO logger_File - user entered name emiliana and phone 07863367
+2022-11-12 09:11:32,268 [main] INFO logger_File - user clicked on update button
+2022-11-12 09:15:49,946 [main] INFO logger_File - React App is equal to React App
+2022-11-12 09:15:50,281 [main] INFO logger_File - signInPage
+2022-11-12 09:15:55,568 [main] INFO logger_File - user entered email ihateteacher@tek.com and password Tek@12345
+2022-11-12 09:15:55,676 [main] INFO logger_File - user clicked on login button
+2022-11-12 09:15:55,890 [main] INFO logger_File - user logged in into account
+2022-11-12 09:16:01,049 [main] INFO logger_File - User clicked on account option
+2022-11-12 09:16:01,333 [main] INFO logger_File - user entered name emiliana and phone 07863367
+2022-11-12 09:16:06,416 [main] INFO logger_File - user clicked on update button
+2022-11-12 09:16:06,424 [main] INFO logger_File - users information has been updated
+2022-11-20 10:18:16,817 [main] INFO logger_File - React App is equal to React App
+2022-11-20 10:18:17,032 [main] INFO logger_File - signInPage
+2022-11-20 10:18:22,286 [main] INFO logger_File - user entered email ihateteacher@tek.com and password Tek@12345
+2022-11-20 10:18:22,363 [main] INFO logger_File - user clicked on login button
+2022-11-20 10:19:59,280 [main] INFO logger_File - React App is equal to React App
+2022-11-20 10:19:59,562 [main] INFO logger_File - signInPage
+2022-11-20 10:20:04,812 [main] INFO logger_File - user entered email ihateteacher@tek.com and password Tek@12345
+2022-11-20 10:20:04,896 [main] INFO logger_File - user clicked on login button
+2022-11-20 10:24:00,731 [main] INFO logger_File - React App is equal to React App
+2022-11-20 10:24:00,976 [main] INFO logger_File - signInPage
+2022-11-20 10:24:06,207 [main] INFO logger_File - user entered email ihateteacher1@tek.com and password Tek@123450
+2022-11-20 10:24:06,286 [main] INFO logger_File - user clicked on login button
+2022-11-20 10:24:06,521 [main] INFO logger_File - user logged in into account
+2022-11-20 10:26:58,094 [main] INFO logger_File - React App is equal to React App
+2022-11-20 10:26:58,374 [main] INFO logger_File - signInPage
+2022-11-20 10:27:03,623 [main] INFO logger_File - user entered email ihateteacher1@tek.com and password Tek@123450
+2022-11-20 10:27:03,711 [main] INFO logger_File - user clicked on login button
+2022-11-20 10:27:03,941 [main] INFO logger_File - user logged in into account
+2022-11-20 11:00:00,867 [main] INFO logger_File - React App is equal to React App
+2022-11-20 11:00:01,067 [main] INFO logger_File - signInPage
+2022-11-20 11:00:06,316 [main] INFO logger_File - user entered email ihateteacher1@tek.com and password Tek@123450
+2022-11-20 11:00:06,392 [main] INFO logger_File - user clicked on login button
+2022-11-20 11:00:06,670 [main] INFO logger_File - user logged in into account
+2022-11-20 11:01:48,729 [main] INFO logger_File - React App is equal to React App
+2022-11-20 11:01:49,047 [main] INFO logger_File - signInPage
+2022-11-20 11:01:54,305 [main] INFO logger_File - user entered email ihateteacher1@tek.com and password Tek@123450
+2022-11-20 11:01:54,397 [main] INFO logger_File - user clicked on login button
+2022-11-20 11:01:54,619 [main] INFO logger_File - user logged in into account
+2022-11-20 11:57:40,257 [main] INFO logger_File - React App is equal to React App
+2022-11-20 11:57:40,497 [main] INFO logger_File - signInPage
+2022-11-20 11:57:45,741 [main] INFO logger_File - user entered email ihateteacher1@tek.com and password Tek@123450
+2022-11-20 11:57:45,825 [main] INFO logger_File - user clicked on login button
+2022-11-20 11:57:46,057 [main] INFO logger_File - user logged in into account
+2022-11-20 11:58:01,367 [main] INFO logger_File - User clicked on add payment method link
+2022-11-21 16:35:35,544 [main] INFO logger_File - React App is equal to React App
+2022-11-21 16:35:35,836 [main] INFO logger_File - signInPage
+2022-11-21 16:35:41,074 [main] INFO logger_File - user entered email ihateteacher1@tek.com and password Tek@123450
+2022-11-21 16:35:41,155 [main] INFO logger_File - user clicked on login button
+2022-11-21 16:35:41,433 [main] INFO logger_File - user logged in into account
+2022-11-21 16:38:50,045 [main] INFO logger_File - React App is equal to React App
+2022-11-21 16:38:50,238 [main] INFO logger_File - signInPage
+2022-11-21 16:38:55,493 [main] INFO logger_File - user entered email ihateteacher1@tek.com and password Tek@123450
+2022-11-21 16:38:55,574 [main] INFO logger_File - user clicked on login button
+2022-11-21 16:38:55,848 [main] INFO logger_File - user logged in into account
+2022-11-21 16:39:11,165 [main] INFO logger_File - User clicked on add payment method link
+2022-11-21 19:22:58,848 [main] INFO logger_File - React App is equal to React App
+2022-11-21 19:22:59,449 [main] INFO logger_File - signInPage
+2022-11-21 19:23:04,772 [main] INFO logger_File - user entered email ihateteacher1@tek.com and password Tek@123450
+2022-11-21 19:23:04,887 [main] INFO logger_File - user clicked on login button
+2022-11-21 19:23:05,129 [main] INFO logger_File - user logged in into account
+2022-11-21 19:23:20,498 [main] INFO logger_File - User clicked on add payment method link
+2022-11-21 19:26:29,175 [main] INFO logger_File - React App is equal to React App
+2022-11-21 19:26:29,703 [main] INFO logger_File - signInPage
+2022-11-21 19:26:35,076 [main] INFO logger_File - user entered email ihateteacher1@tek.com and password Tek@123450
+2022-11-21 19:26:35,197 [main] INFO logger_File - user clicked on login button
+2022-11-21 19:26:35,468 [main] INFO logger_File - user logged in into account
+2022-11-21 19:26:50,948 [main] INFO logger_File - User clicked on add payment method link
+2022-11-22 10:30:55,084 [main] INFO logger_File - React App is equal to React App
+2022-11-22 10:30:55,391 [main] INFO logger_File - signInPage
+2022-11-22 10:31:00,638 [main] INFO logger_File - user entered email ihateteacher1@tek.com and password Tek@123450
+2022-11-22 10:31:00,712 [main] INFO logger_File - user clicked on login button
+2022-11-22 10:31:00,943 [main] INFO logger_File - user logged in into account
+2022-11-22 11:26:26,339 [main] INFO logger_File - React App is equal to React App
+2022-11-22 11:26:26,524 [main] INFO logger_File - signInPage
+2022-11-22 11:26:31,774 [main] INFO logger_File - user entered email ihateteacher1@tek.com and password Tek@123450
+2022-11-22 11:26:31,854 [main] INFO logger_File - user clicked on login button
+2022-11-22 11:26:32,127 [main] INFO logger_File - user logged in into account
+2022-11-22 11:31:07,490 [main] INFO logger_File - React App is equal to React App
+2022-11-22 11:31:07,763 [main] INFO logger_File - signInPage
+2022-11-22 11:31:13,021 [main] INFO logger_File - user entered email ihateteacher1@tek.com and password Tek@123450
+2022-11-22 11:31:13,102 [main] INFO logger_File - user clicked on login button
+2022-11-22 11:31:13,521 [main] INFO logger_File - user logged in into account
+2022-11-22 11:34:59,968 [main] INFO logger_File - React App is equal to React App
+2022-11-22 11:35:00,163 [main] INFO logger_File - signInPage
+2022-11-22 11:35:05,422 [main] INFO logger_File - user entered email ihateteacher1@tek.com and password Tek@123450
+2022-11-22 11:35:05,492 [main] INFO logger_File - user clicked on login button
+2022-11-22 11:35:05,772 [main] INFO logger_File - user logged in into account
+2022-11-24 11:59:48,790 [main] INFO logger_File - React App is equal to React App
+2022-11-24 11:59:49,147 [main] INFO logger_File - signInPage
+2022-11-24 11:59:54,405 [main] INFO logger_File - user entered email ihateteacher1@tek.com and password Tek@123450
+2022-11-24 11:59:54,480 [main] INFO logger_File - user clicked on login button
+2022-11-24 11:59:54,702 [main] INFO logger_File - user logged in into account
+2022-11-24 12:00:10,008 [main] INFO logger_File - User clicked on add payment method link
+2022-11-24 12:00:10,490 [main] INFO logger_File - user entered required information into sign up form
+2022-11-24 12:00:10,592 [main] INFO logger_File - User clicked on add your card button
+2022-11-24 12:01:12,726 [main] INFO logger_File - React App is equal to React App
+2022-11-24 12:01:13,193 [main] INFO logger_File - signInPage
+2022-11-24 12:01:18,736 [main] INFO logger_File - user entered email ihateteacher1@tek.com and password Tek@123450
+2022-11-24 12:01:18,909 [main] INFO logger_File - user clicked on login button
+2022-11-24 12:01:19,177 [main] INFO logger_File - user logged in into account
+2022-11-24 12:01:34,695 [main] INFO logger_File - User clicked on add payment method link
+2022-11-24 12:01:35,459 [main] INFO logger_File - user entered required information into sign up form
+2022-11-24 12:01:35,596 [main] INFO logger_File - User clicked on add your card button
+2022-11-24 12:03:01,928 [main] INFO logger_File - React App is equal to React App
+2022-11-24 12:03:02,210 [main] INFO logger_File - signInPage
+2022-11-24 12:03:07,454 [main] INFO logger_File - user entered email ihateteacher1@tek.com and password Tek@123450
+2022-11-24 12:03:07,537 [main] INFO logger_File - user clicked on login button
+2022-11-24 12:03:07,795 [main] INFO logger_File - user logged in into account
+2022-11-24 12:03:23,088 [main] INFO logger_File - User clicked on add payment method link
+2022-11-24 12:05:49,183 [main] INFO logger_File - React App is equal to React App
+2022-11-24 12:05:49,516 [main] INFO logger_File - signInPage
+2022-11-24 12:05:54,801 [main] INFO logger_File - user entered email ihateteacher1@tek.com and password Tek@123450
+2022-11-24 12:05:54,898 [main] INFO logger_File - user clicked on login button
+2022-11-24 12:05:55,374 [main] INFO logger_File - user logged in into account
+2022-11-24 12:06:10,709 [main] INFO logger_File - User clicked on add payment method link
+2022-11-24 12:06:11,195 [main] INFO logger_File - user entered required information into sign up form
+2022-11-24 12:06:11,303 [main] INFO logger_File - User clicked on add your card button
+2022-11-24 12:12:11,940 [main] INFO logger_File - React App is equal to React App
+2022-11-24 12:12:12,231 [main] INFO logger_File - signInPage
+2022-11-24 12:12:17,484 [main] INFO logger_File - user entered email ihateteacher1@tek.com and password Tek@123450
+2022-11-24 12:12:17,568 [main] INFO logger_File - user clicked on login button
+2022-11-24 12:12:17,773 [main] INFO logger_File - user logged in into account
+2022-11-24 12:12:33,107 [main] INFO logger_File - User clicked on add payment method link
+2022-11-24 12:12:33,553 [main] INFO logger_File - user entered required information into sign up form
+2022-11-24 12:12:33,635 [main] INFO logger_File - User clicked on add your card button
+2022-11-24 12:12:34,305 [main] INFO logger_File - user successfully added a payment method
+2022-11-24 12:15:21,322 [main] INFO logger_File - React App is equal to React App
+2022-11-24 12:15:21,608 [main] INFO logger_File - signInPage
+2022-11-24 12:15:26,855 [main] INFO logger_File - user entered email ihateteacher1@tek.com and password Tek@123450
+2022-11-24 12:15:26,930 [main] INFO logger_File - user clicked on login button
+2022-11-24 12:15:27,155 [main] INFO logger_File - user logged in into account
+2022-11-24 17:57:15,697 [main] INFO logger_File - React App is equal to React App
+2022-11-24 17:57:15,988 [main] INFO logger_File - signInPage
+2022-11-24 17:57:21,251 [main] INFO logger_File - user entered email ihateteacher1@tek.com and password Tek@123450
+2022-11-24 17:57:21,332 [main] INFO logger_File - user clicked on login button
+2022-11-24 17:57:21,609 [main] INFO logger_File - user logged in into account
+2022-11-24 17:57:36,910 [main] INFO logger_File - User clicked on payment card
+2022-11-24 17:57:36,959 [main] INFO logger_File - user clicked on edit option of card section
+2022-11-24 18:04:38,784 [main] INFO logger_File - React App is equal to React App
+2022-11-24 18:04:38,943 [main] INFO logger_File - signInPage
+2022-11-24 18:04:44,242 [main] INFO logger_File - user entered email ihateteacher1@tek.com and password Tek@123450
+2022-11-24 18:04:44,347 [main] INFO logger_File - user clicked on login button
+2022-11-24 18:04:44,650 [main] INFO logger_File - user logged in into account
+2022-11-24 18:04:59,952 [main] INFO logger_File - User selected the payment card
+2022-11-24 18:05:00,000 [main] INFO logger_File - user clicked on edit option of card section
+2022-11-24 18:15:38,381 [main] INFO logger_File - React App is equal to React App
+2022-11-24 18:15:38,732 [main] INFO logger_File - signInPage
+2022-11-24 18:15:44,019 [main] INFO logger_File - user entered email ihateteacher1@tek.com and password Tek@123450
+2022-11-24 18:15:44,125 [main] INFO logger_File - user clicked on login button
+2022-11-24 18:15:44,345 [main] INFO logger_File - user logged in into account
+2022-11-24 18:15:59,660 [main] INFO logger_File - User selected the payment card
+2022-11-24 18:15:59,716 [main] INFO logger_File - user clicked on edit option of card section
+2022-11-24 18:31:27,169 [main] INFO logger_File - React App is equal to React App
+2022-11-24 18:31:27,481 [main] INFO logger_File - signInPage
+2022-11-24 18:31:32,734 [main] INFO logger_File - user entered email ihateteacher1@tek.com and password Tek@123450
+2022-11-24 18:31:32,815 [main] INFO logger_File - user clicked on login button
+2022-11-24 18:31:33,024 [main] INFO logger_File - user logged in into account
+2022-11-24 18:31:48,331 [main] INFO logger_File - User selected the payment card
+2022-11-24 18:31:48,371 [main] INFO logger_File - user clicked on edit option of card section
+2022-11-24 18:41:27,713 [main] INFO logger_File - React App is equal to React App
+2022-11-24 18:41:27,999 [main] INFO logger_File - signInPage
+2022-11-24 18:41:33,251 [main] INFO logger_File - user entered email ihateteacher1@tek.com and password Tek@123450
+2022-11-24 18:41:33,327 [main] INFO logger_File - user clicked on login button
+2022-11-24 18:41:33,544 [main] INFO logger_File - user logged in into account
+2022-11-24 18:41:48,835 [main] INFO logger_File - User selected the payment card
+2022-11-24 18:41:48,880 [main] INFO logger_File - user clicked on edit option of card section
+2022-11-25 15:32:45,549 [main] INFO logger_File - React App is equal to React App
+2022-11-25 15:32:45,862 [main] INFO logger_File - signInPage
+2022-11-25 15:32:51,196 [main] INFO logger_File - user entered email ihateteacher1@tek.com and password Tek@123450
+2022-11-25 15:32:51,306 [main] INFO logger_File - user clicked on login button
+2022-11-25 15:32:51,549 [main] INFO logger_File - user logged in into account
+2022-11-25 15:33:06,891 [main] INFO logger_File - User selected the payment card
+2022-11-25 15:33:06,980 [main] INFO logger_File - user clicked on edit option of card section
+2022-11-25 15:33:07,545 [main] INFO logger_File - user clicked on update your card button
+2022-11-25 15:36:40,551 [main] INFO logger_File - React App is equal to React App
+2022-11-25 15:36:40,837 [main] INFO logger_File - signInPage
+2022-11-25 15:36:46,099 [main] INFO logger_File - user entered email ihateteacher1@tek.com and password Tek@123450
+2022-11-25 15:36:46,190 [main] INFO logger_File - user clicked on login button
+2022-11-25 15:36:46,463 [main] INFO logger_File - user logged in into account
+2022-11-25 15:43:33,873 [main] INFO logger_File - React App is equal to React App
+2022-11-25 15:43:34,185 [main] INFO logger_File - signInPage
+2022-11-25 15:43:39,440 [main] INFO logger_File - user entered email ihateteacher1@tek.com and password Tek@123450
+2022-11-25 15:43:39,527 [main] INFO logger_File - user clicked on login button
+2022-11-25 15:43:39,806 [main] INFO logger_File - user logged in into account
+2022-11-25 15:43:50,173 [main] INFO logger_File - user entered name e and phone 07863367
+2022-11-25 15:43:55,284 [main] INFO logger_File - user clicked on update button
+2022-11-25 15:43:55,284 [main] INFO logger_File - users  profile information has been updated
+2022-11-25 15:48:27,421 [main] INFO logger_File - React App is equal to React App
+2022-11-25 15:48:27,729 [main] INFO logger_File - signInPage
+2022-11-25 15:48:32,991 [main] INFO logger_File - user entered email ihateteacher1@tek.com and password Tek@123450
+2022-11-25 15:48:33,074 [main] INFO logger_File - user clicked on login button
+2022-11-25 15:48:33,304 [main] INFO logger_File - user logged in into account
+2022-11-25 15:48:48,637 [main] INFO logger_File - User clicked on add payment method link
+2022-11-25 15:48:49,122 [main] INFO logger_File - user entered required information into sign up form
+2022-11-25 15:48:49,213 [main] INFO logger_File - User clicked on add your card button
+2022-11-25 15:48:49,308 [main] INFO logger_File - user successfully added a payment method
+2022-11-25 15:49:11,480 [main] INFO logger_File - React App is equal to React App
+2022-11-25 15:49:11,774 [main] INFO logger_File - signInPage
+2022-11-25 15:49:17,055 [main] INFO logger_File - user entered email ihateteacher1@tek.com and password Tek@123450
+2022-11-25 15:49:17,137 [main] INFO logger_File - user clicked on login button
+2022-11-25 15:49:17,364 [main] INFO logger_File - user logged in into account
+2022-11-25 15:51:28,222 [main] INFO logger_File - React App is equal to React App
+2022-11-25 15:51:28,530 [main] INFO logger_File - signInPage
+2022-11-25 15:51:33,776 [main] INFO logger_File - user entered email ihateteacher1@tek.com and password Tek@123450
+2022-11-25 15:51:33,859 [main] INFO logger_File - user clicked on login button
+2022-11-25 15:51:34,264 [main] INFO logger_File - user logged in into account
+2022-11-25 15:51:49,584 [main] INFO logger_File - User selected the payment card
+2022-11-25 15:54:16,781 [main] INFO logger_File - React App is equal to React App
+2022-11-25 15:54:17,061 [main] INFO logger_File - signInPage
+2022-11-25 15:54:22,305 [main] INFO logger_File - user entered email ihateteacher1@tek.com and password Tek@123450
+2022-11-25 15:54:22,389 [main] INFO logger_File - user clicked on login button
+2022-11-25 15:54:22,665 [main] INFO logger_File - user logged in into account
+2022-11-25 15:54:37,981 [main] INFO logger_File - User clicked on add payment method link
+2022-11-25 15:57:32,339 [main] INFO logger_File - React App is equal to React App
+2022-11-25 15:57:32,620 [main] INFO logger_File - signInPage
+2022-11-25 15:57:37,876 [main] INFO logger_File - user entered email ihateteacher1@tek.com and password Tek@123450
+2022-11-25 15:57:37,959 [main] INFO logger_File - user clicked on login button
+2022-11-25 15:57:38,323 [main] INFO logger_File - user logged in into account
+2022-11-25 15:57:53,653 [main] INFO logger_File - User selected the payment card
+2022-11-25 15:57:53,776 [main] INFO logger_File - payment details removed
+2022-11-25 16:06:11,139 [main] INFO logger_File - React App is equal to React App
+2022-11-25 16:06:11,319 [main] INFO logger_File - signInPage
+2022-11-25 16:06:16,580 [main] INFO logger_File - user entered email ihateteacher1@tek.com and password Tek@123450
+2022-11-25 16:06:16,669 [main] INFO logger_File - user clicked on login button
+2022-11-25 16:06:16,991 [main] INFO logger_File - user logged in into account
+2022-11-25 16:06:32,341 [main] INFO logger_File - user clicked on add address option
+2022-11-25 16:06:33,284 [main] INFO logger_File - user clicked add your adress button
+2022-11-25 16:06:33,308 [main] INFO logger_File - a message displayed
+2022-11-26 13:19:46,190 [main] INFO logger_File - React App is equal to React App
+2022-11-26 13:19:46,493 [main] INFO logger_File - signInPage
+2022-11-26 13:19:51,749 [main] INFO logger_File - user entered email ihateteacher1@tek.com and password Tek@123450
+2022-11-26 13:19:51,828 [main] INFO logger_File - user clicked on login button
+2022-11-26 13:19:52,046 [main] INFO logger_File - user logged in into account
+2022-11-26 13:20:07,391 [main] INFO logger_File - user clicked on edit address option
+2022-11-26 13:20:08,356 [main] INFO logger_File - user clicked update your address button
+2022-11-26 13:20:08,381 [main] INFO logger_File - a message displayed
+2022-12-13 12:23:33,997 [main] INFO logger_File - React App is equal to React App
+2022-12-13 12:23:34,185 [main] INFO logger_File - user clicked on All section
+2022-12-13 12:23:34,309 [main] INFO logger_File - options Electronics, Computers, Smart Home, Sports and Automative are present
